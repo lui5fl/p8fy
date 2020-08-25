@@ -18,5 +18,12 @@ image = p8fy.image(path = "/path/to/image.png",
                    rgb_weights_preset = 0)
 ```
 
+## Examples
+![example0](https://github.com/lui5fl/p8fy/blob/master/Examples/example0.png)
+![example1](https://github.com/lui5fl/p8fy/blob/master/Examples/example1.png)
+![example2](https://github.com/lui5fl/p8fy/blob/master/Examples/example2.png)
+![example3](https://github.com/lui5fl/p8fy/blob/master/Examples/example3.png)
+![example4](https://github.com/lui5fl/p8fy/blob/master/Examples/example4.png)
+
 ## License
-Released under MIT license. See [LICENSE](https://github.com/louthinker/p8fy/blob/master/LICENSE) for details.
+Released under MIT license. See [LICENSE](https://github.com/lui5fl/p8fy/blob/master/LICENSE) for details.
